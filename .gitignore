@@ -1,0 +1,11 @@
+# 密钥 / 环境变量文件（永远不要提交）
+.env
+*.env
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 系统文件
+.DS_Store
+Thumbs.db
