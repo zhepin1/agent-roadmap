@@ -6,6 +6,10 @@
 __pycache__/
 *.pyc
 
+# 虚拟环境（本地隔离，不提交）
+.venv/
+venv/
+
 # 系统文件
 .DS_Store
 Thumbs.db
